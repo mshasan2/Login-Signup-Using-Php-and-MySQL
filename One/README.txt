@@ -1,3 +1,8 @@
+To download Xampp https://www.apachefriends.org/download.html
+
+Comments have been included to make you UNDERSTAND the use of every part of the code
+
+
 Go to http://localhost/phpmyadmin/index.php
 1.To create a database click on Databases
  Create database
